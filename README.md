@@ -29,7 +29,7 @@ conversation*) o bloquear usuarios en la configuración de la cuenta.
 
 ## Usarlo en otra web
 
-Instalar nada más: la app de giscus ya está instalada en este repo.
+No hay que instalar nada: la app de giscus ya está instalada en este repo.
 Configurar el script de giscus con `data-repo="fernandodpr/web-comments"`,
 `data-repo-id="R_kgDOU-Imlw"` y una categoría (para no mezclarlo con el
 blog, crear una nueva en *Settings → Discussions*, tipo Announcement) y
